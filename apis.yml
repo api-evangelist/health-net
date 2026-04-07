@@ -1,7 +1,11 @@
 aid: health-net
-url: https://raw.githubusercontent.com/api-evangelist/health-net/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/health-net/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.health-net.com
+description: >-
+  Health Net is a managed care organization offering health benefits to individuals,
+  families, businesses, and beneficiaries of government-sponsored programs.
