@@ -1,7 +1,9 @@
 ---
 title: Health Net, Dignity Health and Vivant Health Partner to ...
 url: https://www.prnewswire.com/news-releases/health-net-dignity-health-and-vivant-health-partner-to-improve-patient-care-in-sacramento-hospitals-302431987.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Health Net" press release artificial intelligence'
 position: 2
 source: serpapi-google
